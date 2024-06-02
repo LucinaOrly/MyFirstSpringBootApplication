@@ -1,4 +1,4 @@
-package edu.lucinaorly.springfibonacci;
+package edu.lucinaorly.myfirstspringboot;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

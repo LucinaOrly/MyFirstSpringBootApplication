@@ -1,4 +1,4 @@
-package edu.lucinaorly.springfibonacci;
+package edu.lucinaorly.myfirstspringboot;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

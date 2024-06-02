@@ -1,4 +1,4 @@
-package edu.lucinaorly.springfibonacci;
+package edu.lucinaorly.myfirstspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

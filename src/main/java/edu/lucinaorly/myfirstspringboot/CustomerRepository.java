@@ -1,4 +1,4 @@
-package edu.lucinaorly.springfibonacci;
+package edu.lucinaorly.myfirstspringboot;
 
 import org.springframework.data.repository.CrudRepository;
 public interface CustomerRepository extends CrudRepository<Customer, Integer> {

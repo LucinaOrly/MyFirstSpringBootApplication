@@ -1,4 +1,4 @@
-package edu.lucinaorly.springfibonacci;
+package edu.lucinaorly.myfirstspringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
